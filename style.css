@@ -1,0 +1,92 @@
+body {
+    background-color: pink;
+}
+
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: palevioletred;
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+}
+header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    color: lightslategray;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+section {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: lightslategray;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 15px;
+}
+
+h2{
+    color: mediumvioletred;
+}
+
+h3{
+    color: mediumvioletred;
+}
+
+a {
+    color: lightslategray;
+}
+
+summary{
+    color: mediumvioletred;
+}
+
+article{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: lightslategray;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 15px;
+}
+
+aside{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: lightslategray;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 15px;
+}
+
+figure img {
+    border: 2px solid palevioletred;
+    border-radius: 20px;
+    display: block;
+    margin: 0 auto;
+}
+
+footer {
+  background-color: palevioletred;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+}
+
+footer a {
+  color: white;
+}
