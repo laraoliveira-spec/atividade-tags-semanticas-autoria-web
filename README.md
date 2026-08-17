@@ -1,1 +1,1 @@
-# atividade-tags-sem-nticas-autoria-web
+# atividade-tags-semanticas-autoria-web
